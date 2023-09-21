@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from Render! THIS IS bug and code
     </section>
   </body>
 </html>
